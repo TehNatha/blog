@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Trees Are Cool Too | Bleeding on the Keyboard]]></title>
+  <link href="http://tehnatha.github.io/blog/Blog/categories/trees-are-cool-too/atom.xml" rel="self"/>
+  <link href="http://tehnatha.github.io/blog/"/>
+  <updated>2015-08-10T16:15:56-05:00</updated>
+  <id>http://tehnatha.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Nathan Stier]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Awesome New Post]]></title>
+    <link href="http://tehnatha.github.io/blog/2015/05/27/awesome-new-post/"/>
+    <updated>2015-05-27T20:37:53-05:00</updated>
+    <id>http://tehnatha.github.io/blog/2015/05/27/awesome-new-post</id>
+    <content type="html"><![CDATA[<p>Abunch of stuff</p>
+
+<!-- more -->
+
+
+<h1>A list of things cooler than trees</h1>
+
+<p> 1 Bacon
+ 2 Vidja Ghames
+ 3 Ordered Lists</p>
+]]></content>
+  </entry>
+  
+</feed>
