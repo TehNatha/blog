@@ -4,7 +4,7 @@
   <title><![CDATA[Bleeding on the Keyboard]]></title>
   <link href="http://tehnatha.github.io/blog/atom.xml" rel="self"/>
   <link href="http://tehnatha.github.io/blog/"/>
-  <updated>2015-08-10T16:15:56-05:00</updated>
+  <updated>2015-08-10T16:54:46-05:00</updated>
   <id>http://tehnatha.github.io/blog/</id>
   <author>
     <name><![CDATA[Nathan Stier]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://tehnatha.github.io/blog/2015/08/10/first-post/"/>
+    <updated>2015-08-10T16:40:48-05:00</updated>
+    <id>http://tehnatha.github.io/blog/2015/08/10/first-post</id>
+    <content type="html"><![CDATA[<h1>Markdown GO!</h1>
+
+<p>I have a BLllaaaoouuurgh~!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Awesome New Post]]></title>
